@@ -1,0 +1,15 @@
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\bin\Debug\net6.0\Chapter03Ex01.exe
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\bin\Debug\net6.0\Chapter03Ex01.deps.json
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\bin\Debug\net6.0\Chapter03Ex01.runtimeconfig.json
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\bin\Debug\net6.0\Chapter03Ex01.dll
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\bin\Debug\net6.0\Chapter03Ex01.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\obj\Debug\net6.0\Chapter03Ex01.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\obj\Debug\net6.0\Chapter03Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\obj\Debug\net6.0\Chapter03Ex01.AssemblyInfoInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\obj\Debug\net6.0\Chapter03Ex01.AssemblyInfo.cs
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\obj\Debug\net6.0\Chapter03Ex01.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\obj\Debug\net6.0\Chapter03Ex01.dll
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\obj\Debug\net6.0\refint\Chapter03Ex01.dll
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\obj\Debug\net6.0\Chapter03Ex01.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\obj\Debug\net6.0\Chapter03Ex01.genruntimeconfig.cache
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd.Net\Chapter03\Ch03Eh01\Chapter03\Chapter03Ex01\obj\Debug\net6.0\ref\Chapter03Ex01.dll

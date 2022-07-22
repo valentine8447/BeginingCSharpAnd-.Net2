@@ -1,0 +1,16 @@
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\bin\Debug\net5.0\Ch04Ex01.exe
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\bin\Debug\net5.0\Ch04Ex01.deps.json
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\bin\Debug\net5.0\Ch04Ex01.runtimeconfig.json
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\bin\Debug\net5.0\Ch04Ex01.runtimeconfig.dev.json
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\bin\Debug\net5.0\Ch04Ex01.dll
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\bin\Debug\net5.0\Ch04Ex01.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\obj\Debug\net5.0\Ch04Ex01.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\obj\Debug\net5.0\Ch04Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\obj\Debug\net5.0\Ch04Ex01.AssemblyInfoInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\obj\Debug\net5.0\Ch04Ex01.AssemblyInfo.cs
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\obj\Debug\net5.0\Ch04Ex01.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\obj\Debug\net5.0\Ch04Ex01.dll
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\obj\Debug\net5.0\refint\Ch04Ex01.dll
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\obj\Debug\net5.0\Ch04Ex01.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\obj\Debug\net5.0\Ch04Ex01.genruntimeconfig.cache
+C:\Users\valentina\Documents\FullStackDevelopment\BeginingCSharpAnd-.Net2\Chapter04\Ch04Ex01\Ch04Ex01\obj\Debug\net5.0\ref\Ch04Ex01.dll
